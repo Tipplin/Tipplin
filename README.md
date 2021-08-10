@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian 'Tipplin' Kurs
 - 👀 I’m interested in Visual C#, C++ and .NET
 - 🌱 I’m currently learning .NET 6.0 and Visual C# 9, 10
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking other Developer's for my Project...
 - 📫 How to reach me kurschristian@gmail.com
 - 
 <!---

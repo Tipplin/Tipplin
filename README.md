@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Christian 'Tipplin' Kurs
 - 👀 I have also been deeply involved with the local/regional/global developer community.
-- 🌱 
 - 💞️ I’m looking other Developer's for my Project...
 - 📫 How to reach me kurschristian@gmail.com
 - 👁️ in Progress my Website...

@@ -10,12 +10,13 @@
 - Visual C++
 - .NET 6.0
 - ❣️ Hobbies: 
-- Programming
-- Learning 
-- Live Streaming
-- Music
-- Eating 
-- Travel Geek most to Greece
+- ![SmurfetteSmileSmurfsGIF](https://user-images.githubusercontent.com/40143278/134175804-650e6878-cb16-4019-b8ea-69098c1c98a1.gif)
+Programming
+- 🧓Learning 
+- 👁️Live Streaming
+- 📯Music
+- 🍔🌭Eating 
+- ✈️Travel Geek most to Greece
 <!---
 Tipplin/Tipplin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

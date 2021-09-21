@@ -11,7 +11,7 @@
 - .NET 6.0
 - ❣️ Hobbies: 
 - ![SmurfetteSmileSmurfsGIF](https://user-images.githubusercontent.com/40143278/134175804-650e6878-cb16-4019-b8ea-69098c1c98a1.gif)
-Programming
+- 🧑Programming
 - 🧓Learning 
 - 👁️Live Streaming
 - 📯Music

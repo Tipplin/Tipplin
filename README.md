@@ -17,6 +17,8 @@
 - 👁️ Visual Exception Engine
 - 👁️ Visual Form Library
 - 👁️ Visual Function Library
+- 👁️ Visual Registry Library
+- 👁️ Visual Security Library
 # ❣️ Hobbies: 
 - 🧑Programming
 - 🧓Learning 

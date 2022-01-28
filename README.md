@@ -1,4 +1,4 @@
-# Head-Author and Maintainer of Repos puls short Info of my Person:
+# Head-Author and Maintainer of Repos plus short Info of my Person:
 - 👋 Hi, I’m Christian 'Tipplin' Kurs from Germany at City of Bonn
 - 👀 I have also been deeply involved with the local/regional/global developer community.
 - 💞️ I’m looking other Developer's for my Project...

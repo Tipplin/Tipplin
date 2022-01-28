@@ -11,6 +11,12 @@
 - Visual C#
 - Visual C++
 - .NET 6.0
+# 🧑 Following actual Repos, but in Progress !:
+- 👁️ Visual Galaxy Framework
+- 👁️ Visual Resource Library
+- 👁️ Visual Exception Engine
+- 👁️ Visual Form Library
+- 👁️ Visual Function Library
 # ❣️ Hobbies: 
 - 🧑Programming
 - 🧓Learning 

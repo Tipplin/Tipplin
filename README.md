@@ -6,11 +6,11 @@
 - 👁️ in Progress my Website...
 
 # 🧑 Working mostly with Microsoft Technology:
-- Visual Studio 2022
-- Visual Studio Blend 2022
-- Visual C#
-- Visual C++
-- .NET 6.0
+- ✔ Visual Studio 2022
+- ✔ Visual Studio Blend 2022
+- ✔ Visual C#
+- ✔ Visual C++
+- ✔ .NET 6.0
 # 🧑 Following actual Repos, but in Progress !:
 - 👁️ Visual Galaxy Framework
 - 👁️ Visual Resource Library

@@ -26,7 +26,7 @@
 - 📯Music
 - 🍔🌭Eating 
 - ✈️Travel Geek most to Greece
-- 🧑 Good Friends - 👨 mens and 👧 womans
+- 🧑 Good Friendship with - 👨 mens and 👧 womans
 # 🧑 NOTE ABOUT LINKS: (Germany)
 ## Note from the author of the program and related websites:
 - With a judgment of May 12, 1998, the District Court of Hamburg

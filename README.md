@@ -28,7 +28,7 @@
 - ✈️Travel Geek most to Greece
 - 🧑 Good Friends - 👨 mens and 👧 womans
 # 🧑 NOTE ABOUT LINKS: (Germany)
-- Note from the author of the program and related websites:
+## Note from the author of the program and related websites:
 - With a judgment of May 12, 1998, the District Court of Hamburg
 - Federal Republic of Germany decided
 - that by providing a link you can see the content of the linked

@@ -1,3 +1,6 @@
+Our Community LOGO:
+![VGF Logo 2022 9](https://user-images.githubusercontent.com/40143278/152175762-3abbf383-da5e-4da9-aa29-51652d93654c.jpg)
+
 # 🧑 Head-Author and Maintainer of Repos plus short Info of my Person:
 - 👋 Hi, I’m Christian 'Tipplin' Kurs from Germany at City of Bonn
 - 👀 I have also been deeply involved with the local/regional/global developer community.

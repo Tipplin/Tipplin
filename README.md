@@ -44,10 +44,13 @@
 - As a precaution, we hereby distance ourselves from the content
 - all links displayed on our website (including any banners)
 - and from all content of the or other sites to which these links lead.
+----
 # praise or criticism
 - Critical opinions are allowed, but not offensive ones.
 - What do you think is good, what can we do better?
 - We look forward to your suggestions or requests to:
+- kurschristian@gmail.com
+----
 - We will be happy if you join our VGF community, all projects can be reached via GitHub:
 - https://www.github.com/tipplin
 <!---

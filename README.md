@@ -51,7 +51,7 @@
 - We look forward to your suggestions or requests to:
 - kurschristian@gmail.com
 ----
-- ✨ We will be happy if you join our ✨ VGF community ✨, all projects can be reached here via GitHub.
+# ✨ We will be happy if you join our ✨ VGF community ✨, all projects can be reached here via GitHub.
 <!---
 Tipplin/Tipplin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

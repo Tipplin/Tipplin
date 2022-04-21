@@ -14,7 +14,7 @@
 - ✔ Visual Studio Blend 2022
 - ✔ Visual C#
 - ✔ Visual C++
-- ✔ .NET 6.0
+- ✔ .NET 6.0, 7.0
 # 🧑 Following actual Repos, but in Progress !:
 - 👁️ Visual Galaxy Framework
 - 👁️ Visual Resource Library

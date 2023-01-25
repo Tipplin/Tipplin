@@ -60,3 +60,11 @@
 Tipplin/Tipplin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Contact to me 
+- You can discuss general repos issues or others,
+- send a mail to: 
+- kurschristian@gmail.com
+- For Developer's the same, I'm happy you want work on with me !.
+----
+
+

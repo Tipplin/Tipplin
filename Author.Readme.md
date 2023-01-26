@@ -1,8 +1,7 @@
-# Community LOGO:
+# Visual Galaxy Framework Community:
 ![VGF Logo 2022 9](https://user-images.githubusercontent.com/40143278/152175762-3abbf383-da5e-4da9-aa29-51652d93654c.jpg)
-### Free Community for help others, like Help2Help.
+### Free Community for all Developer's
 ----
-## 🧑 Head-Author and Maintainer of Repos:
 ## What exactly is Visual Galaxy Framework
 - What can I do with this Framework ?
 ## Includes many Classes for every Category, that means following:

@@ -29,7 +29,7 @@
 ### Visual Exception Engine
 - Class VGFException and Methods
 - To handle Exceptions and more...
-### In Feature
+### In Future more
 - More Assemblies for work into Application's.
 - I' hope more Developer's work with me and the repos.
 ----

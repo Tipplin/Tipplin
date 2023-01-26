@@ -1,6 +1,6 @@
-## Hi there 👋!
-
-
+## Hi there, I'm Tipplin 👋!
+## Christian 'Tipplin' Kurs, Germany, Bonn 
+## All Developer's are WELCOME on my Repos !.
 <!--
 **Tipplin/Tipplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,9 +16,8 @@
 - 👯 I’m looking to collaborate on my Repos
 - 🤔 I’m looking for help with new Features for my Repos
 - 💬 Ask me about my Repos on, please only:
-- [Uploading MailDownloadGIF.gif…]() 
+[Uploading MailDownloadGIF.gif…]() 
 - kurschristian@gmail.com
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+----
+
 

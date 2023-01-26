@@ -2,9 +2,9 @@
 ![VGF Logo 2022 9](https://user-images.githubusercontent.com/40143278/152175762-3abbf383-da5e-4da9-aa29-51652d93654c.jpg)
 ### Free Community for all Developer's
 ----
-## What exactly is Visual Galaxy Framework
+### What exactly is Visual Galaxy Framework
 - What can I do with this Framework ?
-## Includes many Classes for every Category, that means following:
+- Includes many Classes for every Category, that means following:
 - Assembly, Application, Configuration, Console, Converting, Core,
 - Cryption, Currency, Dialog, Directory, Exception, FileSystem,
 - Interaction, Licensing, Logging, Mobile, Network, Registry,

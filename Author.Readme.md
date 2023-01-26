@@ -24,7 +24,7 @@
 - (global) using Visual.Resource.Library.Properties;
 - Use in an Form:
 - Property.BackgroundImage = Resource.BigBen;
-- Note: 
+#### Note: 
 - Set automatic ResourceManager Property=Resource . point show all Resources!
 - Sounds, Music, Pictures, Images, Icons, Text, Photos and more later...
 ### Visual Form Library - precreated Forms

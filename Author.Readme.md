@@ -12,7 +12,7 @@
 - Hardware, Print, Tasks, Communication, Database,
 - Worldwide Holidays
 - many Classes later...
-### Includes many other Classes from other Assemblies:
+### Includes many other Classes from other separate Assemblies:
 ----
 ### Visual Security Library:
 - many Security Classes and Methods
@@ -23,6 +23,10 @@
 - with many create Forms with Buttons, without Buttons, icons,
 - Dialogs,
 - All Forms and Dialogs for free sets.
+### Visual Registry Library
+- Class Registry and Methods
+### Visual Exception Engine
+- To handle Exceptions and more...
 ----
 ### Contact to me 
 ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/214600440-d0285214-77d8-4394-a507-7afb8d7539ea.gif)

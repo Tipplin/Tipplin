@@ -16,7 +16,8 @@
 - 👯 I’m looking to collaborate on my Repos
 - 🤔 I’m looking for help with new Features for my Repos
 - 💬 Ask me about my Repos on, please only:
-- [Uploading MailDownloadGIF.gif…]() kurschristian@gmail.com
+- [Uploading MailDownloadGIF.gif…]() 
+- kurschristian@gmail.com
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

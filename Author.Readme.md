@@ -2,8 +2,8 @@
 ![VGF Logo 2022 9](https://user-images.githubusercontent.com/40143278/152175762-3abbf383-da5e-4da9-aa29-51652d93654c.jpg)
 ### Free Community for help others, like Help2Help.
 ----
-# 🧑 Head-Author and Maintainer of Repos:
-## 🎻 What exactly is Visual Galaxy Framework
+## 🧑 Head-Author and Maintainer of Repos:
+## What exactly is Visual Galaxy Framework
 - What can I do with this Framework ?
 ## Includes many Classes for every Category, that means following:
 - Assembly, Application, Configuration, Console, Converting, Core,
@@ -13,8 +13,10 @@
 - Hardware, Print, Tasks, Communication, Database,
 - Worldwide Holidays
 ## Includes many other Classes from other Assemblies:
-- Visual Security Library - many Security Classes and Methods
-- Visual Resource Library - is an pure Resource Library with following Resources:
+#- Visual Security Library:
+- many Security Classes and Methods
+- Visual Resource Library
+- is an pure Resource Library with following Resources:
 - Sounds, Music, Pictures, Images, Icons, Text, Photos and more later...
 - Visual Form Library - precreated Forms
 - with many create Forms with Buttons, without Buttons, icons,

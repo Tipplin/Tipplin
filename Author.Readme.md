@@ -26,7 +26,11 @@
 ### Visual Registry Library
 - Class Registry and Methods
 ### Visual Exception Engine
+- Class VGFException and Methods
 - To handle Exceptions and more...
+### In Feature
+- More Assemblies for work into Application's.
+- I' hope more Developer's work with me and the repos.
 ----
 ### Contact to me 
 ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/214600440-d0285214-77d8-4394-a507-7afb8d7539ea.gif)

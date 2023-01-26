@@ -19,14 +19,14 @@
 - many Security Classes and Methods
 ### Visual Resource Library
 - is an pure Resource Library with following Resources:
+- Sounds, Music, Pictures, Images, Icons, Text, Photos and more later...
 - all Resources set be public at Resource Manager,
 - so you can use them in your Project.
 - (global) using Visual.Resource.Library.Properties;
 - Use in an Form:
 - Property.BackgroundImage = Resource.BigBen;
-#### Note: 
+- #### Note: 
 - Set automatic ResourceManager Property=Resource . point show all Resources!
-- Sounds, Music, Pictures, Images, Icons, Text, Photos and more later...
 ### Visual Form Library - precreated Forms
 - with many create Forms with Buttons, without Buttons, icons,
 - Dialogs,

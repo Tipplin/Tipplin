@@ -3,7 +3,7 @@
 ### Free Community for all Developer's
 ----
 ### What exactly is Visual Galaxy Framework
-### What can I do with this Framework ?
+#### What can I do with this Framework ?
 - Have many Classes for every Category, that means following:
 - Assembly, Application, Configuration, Console, Converting, Core,
 - Cryption, Currency, Dialog, Directory, Exception, FileSystem,

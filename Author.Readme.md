@@ -13,12 +13,12 @@
 - Hardware, Print, Tasks, Communication, Database,
 - Worldwide Holidays
 ## Includes many other Classes from other Assemblies:
-#- Visual Security Library:
+### Visual Security Library:
 - many Security Classes and Methods
-- Visual Resource Library
+### Visual Resource Library
 - is an pure Resource Library with following Resources:
 - Sounds, Music, Pictures, Images, Icons, Text, Photos and more later...
-- Visual Form Library - precreated Forms
+### Visual Form Library - precreated Forms
 - with many create Forms with Buttons, without Buttons, icons,
 - Dialogs,
 - All Forms and Dialogs for free sets.

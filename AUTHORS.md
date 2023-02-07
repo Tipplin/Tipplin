@@ -1,7 +1,7 @@
 ----
 ### Visual Galaxy Framework and Visual Galaxy Framework Advance original development:
 ----
-#### see the Contact section in the README
+#### see the Contact section in the README at time in work.
 ----
 ### Current Project-Maintainer and Head-Author:
 ----

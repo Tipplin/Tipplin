@@ -31,7 +31,8 @@
 ----
 #### take here your name, company name or others
 ----
-
+Text-Copyrights © 2017-2023 by Christian 'Tipplin' Kurs, Germany, Bonn, 2023 Feb 07.
+---
 
 
 

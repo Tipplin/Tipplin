@@ -12,23 +12,23 @@
 ----
 ### Contributions/Contributors:
 ----
-####
+#### take here your name and more
 ----
-#### 
+#### take here your name and more
 ----
-####
+#### take here your name and more
 ----
 ### Sponsors 
 ----
-####
+#### take here your name and more
 ----
-####
+#### take here your name and more
 ----
 ### All free others and no community members
 ----
-####
+#### take here your name, company name or others
 ----
-####
+#### take here your name, company name or others
 ----
 
 

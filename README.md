@@ -44,7 +44,7 @@
 #### Learing by doing, most Visual C# programming and Visual C++.NET
 #### 🥗Good Foods and Drink
 ####  👨👩‍🦰 Good Friendships to Men's and Woman's.
-![GreekFlagGIF](https://user-images.githubusercontent.com/40143278/218130255-a68d159e-994b-4222-854f-b9cbcea968a0.gif)
+![Uploading GreeceGIF.gif…]()
 #### Like Greek Country and Holidays there.
 #### Like Greek Food and Drink.
 ---- 

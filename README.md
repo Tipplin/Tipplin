@@ -33,7 +33,7 @@
 - 💬 Ask me about my Repos on, please only:
 - kurschristian@gmail.com
 ----
-### my personal profile:
+### My Personal Profile:
 #### I'm have Certificate Informatic at German 'Volkshochschule'.
 #### Before I' programming, I' have Gradedute Butcher Masterschool.
 #### Self learing.

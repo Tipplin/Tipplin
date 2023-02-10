@@ -1,5 +1,7 @@
 ![WelcomeGIF](https://user-images.githubusercontent.com/40143278/214815143-3ca2c9fb-7080-4534-9ca5-9d5e284afaa7.gif)
 
+![GermanGermanyGIF (2)](https://user-images.githubusercontent.com/40143278/218131068-78e2f919-4de1-41c5-96fa-d98fd3aeaf42.gif)
+
 ## Hi there, I'm Tipplin 👋!
 #### Christian 'Tipplin' Kurs, Germany, Bonn 
 ### All Developer's are WELCOME on my Repos !.

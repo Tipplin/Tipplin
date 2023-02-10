@@ -15,7 +15,7 @@
 - 🛠️ Visual Form Library
 ----
 ### Working mostly with Microsoft Technology:
-- Visual Studio 2022 at Time 17.5.Preview 3
+- Visual Studio 2022 at Time 17.5.Preview 6
 - Visual C# 11
 - Visual C++ 20
 - NET 6/7 Framework
@@ -33,5 +33,23 @@
 - 💬 Ask me about my Repos on, please only:
 - kurschristian@gmail.com
 ----
+### my personal profile:
+#### I'm have Certificate Informatic at German 'Volkshochschule'.
+#### Before I' programming, I' have Gradedute Butcher Masterschool.
+#### Self learing.
+#### Have meets Windows Insider Meeting by Microsoft Cologne,
+#### Lot of Feedbacks for Windows, Visual Studio and more.
+----
+### Hobbies:
+#### Learing by doing, most Visual C# programming and Visual C++.NET
+#### Good Foods and Drink
+#### Good Friendships to Men's and Woman's.
+#### Like Greek Country and Holidays there.
+#### Like Greek Food and Drink.
+---- 
+
+
+
+
 
 

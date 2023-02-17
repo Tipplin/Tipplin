@@ -2,7 +2,7 @@
 ## Hi there, I'm Tipplin 👋!
 ----
 #### Christian 'Tipplin' Kurs, Germany, Bonn
-
+![WelcomeYoureWelcomeGIF](https://user-images.githubusercontent.com/40143278/219647788-01421969-a94e-4688-8ce6-14e39193a6c6.gif)
 ### All Developer's are WELCOME on my Repos !.
 <!--
 **Tipplin/Tipplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -16,7 +16,7 @@
 ### Working mostly with Microsoft Technology:
 - 🛠️ Visual Studio 2022 at Time 17.5.Preview 6
 - 🛠️ Visual C# 11
-- 🛠️ Visual C++ 20
+- 🛠️ Visual C++ 20, 23
 - 🛠️ .NET6/.NET7 Framework, and .NET8 Preview 1 Feb 2023
 ----
 ### Samples:

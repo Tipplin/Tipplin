@@ -17,7 +17,7 @@
 - 🛠️ Visual Studio 2022 at Time 17.5.Preview 6
 - 🛠️ Visual C# 11
 - 🛠️ Visual C++ 20
-- 🛠️ .NET6/.NET7 Framework, and NEW .NET8 Preview 1 Feb 2023
+- 🛠️ .NET6/.NET7 Framework, and .NET8 Preview 1 Feb 2023
 ----
 ### Samples:
 #### ⚙️Secret

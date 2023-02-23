@@ -32,7 +32,7 @@
 - 👯 I’m looking to collaborate on my Repos
 - 🤔 I’m looking for help with new Features for my Repos
 - 💬 Ask me about my Repos on, please only:
-![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
+- ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 - kurschristian@gmail.com
 ----
 ### 👨‍🦰 My Personal Profile:

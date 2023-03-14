@@ -36,7 +36,7 @@
 - kurschristian@gmail.com
 ----
 ### 👨‍🦰 My Personal Profile:
-#### I'm have Certificate Informatic at German 'Volkshochschule'.
+#### I'm have Certificate Informatic.
 #### Before I' programming, I' have Gradedute Butcher Masterschool.
 #### Self learing.
 #### Have meets Windows Insider Meeting by Microsoft Cologne,

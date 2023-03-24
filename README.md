@@ -37,7 +37,7 @@
 ----
 ### 👨‍🦰 My Personal Profile:
 #### I'm have Certificate Informatic.
-#### Before I' programming, I' have Gradedute Butcher Masterschool.
+#### Before I' programming, I' have Gradedute Master.
 #### Self learing.
 #### Have meets Windows Insider Meeting by Microsoft Cologne,
 #### Lot of Feedbacks for Windows, Visual Studio and more.

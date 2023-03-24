@@ -102,7 +102,7 @@ permanent repercussions as determined by other members of the project's leadersh
 #### Germany, Bonn, March 24, 2023
 #### Copyright © 2017-2023 - Visual Galaxy Framework are created and maintained by Christian 'Tipplin' Kurs
 #### Copyright © 2017-2023 - Development by Visual Galaxy Framework Contributors and Visual Galaxy Framework KernelTeam.
-
+----
 
 
 

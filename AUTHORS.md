@@ -96,7 +96,7 @@ Further details of specific enforcement policies may be posted separately.
 All Developers who do not follow or enforce the Code of Conduct 
 in good faith may face temporary 
 or 
-permanent repercussions as determined by other members of the project's leadership.
+#### permanent repercussions as determined by other members of the project's leadership.
 ----
 #### 👨‍🦰Author Christian Kurs
 #### Germany, Bonn, March 24, 2023

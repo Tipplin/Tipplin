@@ -29,15 +29,15 @@
 #### ⚙️Console Demo
 - is an Console App for show you Console with Forms, Load an extern App (written in C), Logfile...
 ----
+#### For Contributors - Check our CONTRIBUTING File: 
+#### (https://github.com/Tipplin/Tipplin/blob/main/Contributing.md)
+#### if you want to start on something.
+----
 - 👯 I’m looking to collaborate on my Repos
 - 🤔 I’m looking for help with new Features for my Repos
 - 💬 Ask me about my Repos on, please only:
 - ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 - kurschristian@gmail.com
-----
-#### For Contributors - Check our CONTRIBUTING File: 
-#### (https://github.com/Tipplin/Tipplin/blob/main/Contributing.md)
-#### if you want to start on something.
 ----
 #### 👩‍🦰👨‍🦰License for all Repo's:
 #### Click this Link (https://github.com/Tipplin/Tipplin/blob/main/Developer.Public.License%20.txt)

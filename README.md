@@ -35,6 +35,10 @@
 - ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 - kurschristian@gmail.com
 ----
+#### For Contributors - Check our CONTRIBUTING File: 
+#### (https://github.com/tipplin/tipplin/CONTRIBUTING.md) 
+#### if you want to start on something.
+----
 #### 👩‍🦰👨‍🦰License for all Repo's:
 #### Click this Link (https://github.com/Tipplin/Tipplin/blob/main/Developer.Public.License%20.txt)
 ----

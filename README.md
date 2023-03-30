@@ -36,7 +36,7 @@
 - kurschristian@gmail.com
 ----
 #### For Contributors - Check our CONTRIBUTING File: 
-#### (https://github.com/Tipplin/Tipplin/blob/main/CONTRIBUTING.md) 
+#### (https://github.com/Tipplin/Tipplin/blob/main/Contributing.md)
 #### if you want to start on something.
 ----
 #### 👩‍🦰👨‍🦰License for all Repo's:

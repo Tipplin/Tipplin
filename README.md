@@ -35,6 +35,10 @@
 - ![MailPixelGIF](https://user-images.githubusercontent.com/40143278/220922489-95805a01-03ac-4964-8f16-b4c06c13bfaf.gif)
 - kurschristian@gmail.com
 ----
+License for all Repo:
+(https://www.github.com/tipplin/Developer.Public.License.txt)
+
+----
 ### 👨‍🦰 My Personal Profile:
 #### I'm have Certificate Informatic.
 #### Before I' programming, I' have Gradedute Master.

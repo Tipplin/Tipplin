@@ -36,8 +36,7 @@
 - kurschristian@gmail.com
 ----
 License for all Repo:
-(https://www.github.com/tipplin/Developer.Public.License.txt)
-
+(https://github.com/Tipplin/Tipplin/blob/main/Developer.Public.License%20.txt)
 ----
 ### 👨‍🦰 My Personal Profile:
 #### I'm have Certificate Informatic.

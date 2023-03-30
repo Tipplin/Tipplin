@@ -33,6 +33,7 @@
 #### (https://github.com/Tipplin/Tipplin/blob/main/Contributing.md)
 #### if you want to start on something.
 ----
+#### Contributing:
 - 👯 I’m looking to collaborate on my Repos
 - 🤔 I’m looking for help with new Features for my Repos
 - 💬 Ask me about my Repos on, please only:

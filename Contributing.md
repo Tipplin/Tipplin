@@ -15,4 +15,5 @@
 ----
 #### All contributions are licensed under Initial Developer's Public License.
 #### Click here the Link:
+#### (https://github.com/Tipplin/Tipplin/blob/main/Developer.Public.License%20.txt)
 ----

@@ -16,7 +16,7 @@
 #### All contributions are licensed under Initial Developer's Public License.
 #### Click here the Link:
 #### (https://github.com/Tipplin/Tipplin/blob/main/Developer.Public.License%20.txt)
-
+----
 ![CoronaaaaThanksGIF (2)](https://user-images.githubusercontent.com/40143278/228883743-d1069671-d95a-45fd-bf7d-a29c7c1bc230.gif)
 
 ----

@@ -44,7 +44,7 @@
 #### Click this Link (https://github.com/Tipplin/Tipplin/blob/main/Developer.Public.License%20.txt)
 ----
 ### 👨‍🦰 My Personal Profile:
-#### I'm have Certificate Informatic.
+#### I'm have Certificate Computer Science.
 #### Before I' programming, I' have Gradedute Master.
 #### Self learing.
 #### Have meets Windows Insider Meeting by Microsoft Cologne,

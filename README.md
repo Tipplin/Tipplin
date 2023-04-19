@@ -9,7 +9,7 @@
 -->
 ----
 #### For all Developers have Links for you:
-#### Click under Visual Galaxy Framework the item TipplinLinks.
+#### Click Repository Visual Galaxy Framework and the click the item Tipplin.Links.md
 ----
 ### I’m currently working on my Repo's:
 - 🛠️ Visual Galaxy Framework

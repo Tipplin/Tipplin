@@ -8,6 +8,9 @@
 **Tipplin/Tipplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ----
+#### For all Developers have Links for you:
+#### Click under Visual Galaxy Framework the item TipplinLinks.
+----
 ### I’m currently working on my Repo's:
 - 🛠️ Visual Galaxy Framework
 - 🛠️ Visual Security Library

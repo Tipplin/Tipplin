@@ -58,7 +58,7 @@
 #### I'like Greece Country and People and Holidays there.
 #### I'like Greece Food and Drink.
 ---- 
-Copyright © 2017-2023 by Christian 'Tipplin' Kurs, Germany, Bonn
+#### Copyright © 2017-2023 by Christian 'Tipplin' Kurs, Germany, Bonn
 ----
 
 

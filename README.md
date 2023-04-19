@@ -16,10 +16,10 @@
 - 🛠️ Visual Form Library
 ----
 ### Working mostly with Microsoft Technology:
-- 🛠️ Visual Studio 2022 (at Time) Version 17.6.Preview 2
-- 🛠️ Visual C# 11
+- 🛠️ Visual Studio 2022 (at Time) Version 17.6.0 Preview 4 Apr 2023
+- 🛠️ Visual C# 11, 12
 - 🛠️ Visual C++ 20, 23
-- 🛠️ .NET6/.NET7 Framework, and .NET8 Preview 1 Feb 2023
+- 🛠️ .NET6/.NET7 Framework, and .NET8 Preview 3 Apr 2023
 ----
 ### Samples:
 #### ⚙️Secret
@@ -58,6 +58,8 @@
 #### I'like Greece Country and People and Holidays there.
 #### I'like Greece Food and Drink.
 ---- 
+Copyright © 2017-2023 by Christian 'Tipplin' Kurs, Germany, Bonn
+----
 
 
 

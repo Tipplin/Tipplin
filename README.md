@@ -19,10 +19,11 @@
 - 🛠️ Visual Form Library
 ----
 ### Working mostly with Microsoft Technology:
-- 🛠️ Visual Studio 2022 (at Time) Version 17.6.0 Preview 4 Apr 2023
-- 🛠️ Visual C# 11, 12
-- 🛠️ Visual C++ 20, 23
-- 🛠️ .NET6/.NET7 Framework, and .NET8 Preview 3 Apr 2023
+- 🛠️ Visual Studio 2022 (at Time) Version 17.7.0 Preview 4 
+- 🛠️ Visual C# 11, 12, 13
+- 🛠️ Visual C++ 22, 23
+- 🛠️ Visual C# Tools 4.7.0
+- 🛠️ .NET6/.NET7 Framework, and .NET8 Preview 6 
 ----
 ### Samples:
 #### ⚙️Secret

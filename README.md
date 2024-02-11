@@ -19,7 +19,7 @@
 - 🛠️ Visual Form Library
 ----
 ### Working mostly with Microsoft Technology:
-- 🛠️ Visual Studio 2022 (at Time) Version 17.8.0 Preview 3
+- 🛠️ Visual Studio 2022 (at Time) Version 17.9.0 Preview 5
 - 🛠️ Visual C# 11, 12, 13
 - 🛠️ Visual C++ 22, 23
 - 🛠️ Visual C# Tools 4.8.0
@@ -62,7 +62,7 @@
 #### I'like Greece Country and People and Holidays there.
 #### I'like Greece Food and Drink.
 ---- 
-#### Copyright © 2017-2023 by Christian 'Tipplin' Kurs, Germany, Bonn
+#### Copyright © 2017-2024 by Christian 'Tipplin' Kurs, Germany, Bonn
 ----
 
 
